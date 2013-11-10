@@ -1,0 +1,6 @@
+[submodule "src"]
+	path = src
+	url = https://github.com/iTrackr/client.git
+[submodule "server"]
+	path = server
+	url = https://github.com/iTrackr/server.git
